@@ -7,7 +7,7 @@
 #### My free time is dedicated to improve my programmingskills and boosting my English.
 
 #### Skills:
-    ![React](https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-282c34?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-282c34?style=for-the-badge&logo=typeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282c34?style=for-the-badge&logo=javaScript)
@@ -27,5 +27,5 @@
 
 #### Contact details:
 
-    [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/leonid_kr)
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/leonid_kr)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/leonid-kruchenok-4868b591/)
